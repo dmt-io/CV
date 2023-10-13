@@ -77,6 +77,6 @@ Phone: [+49 174 247 83 27](tel:+491742478327)
   - Skills acquired: Color management, bookbinding, printing, HTML & CSS basics, UI design (Grade: 1.5)
 
 ## Interests
-- Art, design, tech, blockchain, web3 & web5, AI, smart contracts, DeFi, fintech, finance, economy, macro, HPC, metaverse, NFTs, VR/AR, data, physics, philosophy, psychology, sociology, neuroscience, nutrition, podcasts, cinema, theater, biking, sauna, rowing, rap & house
+- Art, design, tech, blockchain, web3 & web5, AI, smart contracts, DeFi, fintech, finance, economy, macro, HPC, metaverse, NFTs, VR/AR, data, physics, philosophy, psychology, sociology, neuroscience, nutrition, podcasts, cinema, theater, biking, sauna, rowing
 
 * Relevant University Courses: Digital Typography, Future of Professions, Designing Forms, Voice-Based Apps, Smart City Interfaces, Crafting User Interfaces, Motion Branding, Human-Computer Interaction Design, Interfaces Deconstructed, Lost in Navigation, ANALYSIS - Information Architecture and Visualization, Interface Lab, Branding, Graphic Design ...
