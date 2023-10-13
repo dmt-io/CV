@@ -48,7 +48,7 @@ Experienced UI/UX designer with a proven track record in optimizing product desi
   - designed campaign, advice, and editorial pages, focusing on personalization
 
 ## Contact
-**Location:** Jessnerstr. 68, 10247 Berlin
+**Location:** Berlin, Germany
 **Email:** [dimitriklink@gmail.com](mailto:dimitriklink@gmail.com)
 **Phone:** [+49 174 247 83 27](tel:+491742478327)
 
