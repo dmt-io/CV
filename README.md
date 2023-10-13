@@ -8,37 +8,37 @@ Experienced UI/UX designer with a proven track record in optimizing product desi
 ### Manager Product, CRO & UX/UI
 - Fashion ID GmbH & Co. KG
 - Since April 2022
-  - Led optimization of product detail pages, search, and product range views.
-  - Conducted A/B tests and user tests for data-driven design improvements.
-  - Guild lead for the design system library, driving consistency across brands.
-  - Tokenization for headless design system (tailwindcss) for Peek&Cloppenburg, Ansons & Stylebob.
-  - Successfully restructured and refactored the design system.
+  - Led optimization of product detail pages, search, and product range views
+  - Conducted A/B tests and user tests for data-driven design improvements
+  - Guild lead for the design system library, driving consistency across brands
+  - Tokenization for headless design system (tailwindcss) for Peek&Cloppenburg, Ansons & Stylebob
+  - Successfully restructured and refactored the design system
 
 ### UI/UX Designer & Researcher
 - BKK · VBU
 - December 2020 – March 2022
-  - Conceptualized a functional design system and information architecture.
-  - Developed wireframes, prototypes, and conducted user and usability tests.
-  - Led re-branding initiatives to enhance user experience.
+  - Conceptualized a functional design system and information architecture
+  - Developed wireframes, prototypes, and conducted user and usability tests
+  - Led re-branding initiatives to enhance user experience
 
 ### UI Designer
 - Charles GmbH
 - November 2020
-  - Contributed to the refactoring of the design system.
+  - Contributed to the refactoring of the design system
 
 ### Working Student · UI Designer
 - Zalando Marketing Services
 - October 2018 – October 2020
-  - Built the ZMS design system based on Zalando DS.
-  - Created and adapted modules for client campaign landing pages.
-  - Developed campaign landing pages and pitch deck presentations.
+  - Built the ZMS design system based on Zalando DS
+  - Created and adapted modules for client campaign landing pages
+  - Developed campaign landing pages and pitch deck presentations
 
 ### Working Student · UI Designer
 - Zalando SE
 - October 2016 – September 2018
-  - Designed modular and responsive interfaces.
-  - Maintained libraries and templates.
-  - Focused on micro-interaction design and quality assurance.
+  - Designed modular and responsive interfaces
+  - Maintained libraries and templates
+  - Focused on micro-interaction design and quality assurance
 
 ### UI Designer
 - Zalando SE
@@ -48,9 +48,9 @@ Experienced UI/UX designer with a proven track record in optimizing product desi
   - designed campaign, advice, and editorial pages, focusing on personalization
 
 ## Contact
-**Location:** Berlin, Germany
-**Email:** [dimitriklink@gmail.com](mailto:dimitriklink@gmail.com)
-**Phone:** [+49 174 247 83 27](tel:+491742478327)
+Location: Berlin, Germany  
+Email: [dimitriklink@gmail.com](mailto:dimitriklink@gmail.com)  
+Phone: [+49 174 247 83 27](tel:+491742478327)
 
 ## Skills
 ### Technical Skills
