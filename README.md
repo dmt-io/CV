@@ -1,8 +1,15 @@
 # Dimitri Klink
 **UI & UX Designer | Product | Design System Specialist**
 
+## Contact
+Location: Berlin, Germany  
+Email: [dimitriklink@gmail.com](mailto:dimitriklink@gmail.com)  
+Phone: [+49 174 247 83 27](tel:+491742478327)
+
+
 ## Professional Summary
 Experienced UI/UX designer with a proven track record in optimizing product design, leading design system development, and conducting A/B tests. Proficient in Figma, Notion, and Github. Passionate about creating user-centered designs and contributing to a sustainable business.
+
 
 ## Experience
 ### Manager Product, CRO & UX/UI
@@ -47,10 +54,6 @@ Experienced UI/UX designer with a proven track record in optimizing product desi
   - Contributed to the first digital lookbook
   - designed campaign, advice, and editorial pages, focusing on personalization
 
-## Contact
-Location: Berlin, Germany  
-Email: [dimitriklink@gmail.com](mailto:dimitriklink@gmail.com)  
-Phone: [+49 174 247 83 27](tel:+491742478327)
 
 ## Skills
 ### Technical Skills
@@ -65,6 +68,7 @@ Phone: [+49 174 247 83 27](tel:+491742478327)
 - Effective communication and teamwork
 - Multilingual: German (native), English (fluent), Russian (fluent)
 
+
 ## Education
 - **Bachelor of Arts in Interfacedesign**
   - FH Potsdam
@@ -75,6 +79,7 @@ Phone: [+49 174 247 83 27](tel:+491742478327)
   - Zalando SE
   - August 2012 – June 2015
   - Skills acquired: Color management, bookbinding, printing, HTML & CSS basics, UI design (Grade: 1.5)
+
 
 ## Interests
 - Art, design, tech, blockchain, web3 & web5, AI, smart contracts, DeFi, fintech, finance, economy, macro, HPC, metaverse, NFTs, VR/AR, data, physics, philosophy, psychology, sociology, neuroscience, nutrition, podcasts, cinema, theater, biking, sauna, rowing
