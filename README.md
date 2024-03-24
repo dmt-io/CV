@@ -6,7 +6,7 @@
 - **Email:** dimitriklink@gmail.com
 
 ## Professional Summary
-A forward-thinking UI/UX Designer and Product Manager with a rich history of delivering innovative design solutions and driving user engagement through strategic design system development and optimization. With a knack for leveraging Figma, Notion, and GitHub for collaborative and efficient design workflows, I excel in environments that challenge the norm and seek to elevate the user experience through data-driven design enhancements. My career is marked by a commitment to user-centered design, achieving significant impact across major brands by leading design optimizations that enhance user interaction and business outcomes.
+A forward-thinking UI/UX Designer and Product Manager with a rich history of delivering innovative design solutions and driving user engagement through strategic design system development and optimization. With a knack for leveraging a broad array of design and collaboration tools for efficient workflows, I excel in environments that challenge the norm and seek to elevate the user experience through data-driven design enhancements. My career is marked by a commitment to user-centered design, achieving significant impact across major brands by leading design optimizations that enhance user interaction and business outcomes.
 
 ## Experience
 
