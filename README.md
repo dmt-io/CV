@@ -22,12 +22,12 @@ A forward-thinking UI/UX Designer and Product Manager with a rich history of del
 - Directed comprehensive user and usability testing, leading to actionable insights that informed successful re-branding initiatives.
 
 ### UI Designer
-**Zalando Marketing Services | October 2018 - October 2020 (Werkstudium)**
+**Zalando Marketing Services | October 2018 - October 2020 (working student)**
 - Instrumental in the development and refinement of the ZMS design system, aligning with Zalando's overarching design standards to enhance brand cohesion.
 - Created and adapted campaign-specific modules for landing pages, significantly improving campaign effectiveness and customer engagement.
 
 ### UI Designer
-**Zalando SE | October 2016 - September 2018 (Werkstudium)**
+**Zalando SE | October 2016 - September 2018 (working student)**
 - Specialized in designing modular and responsive interfaces, enhancing user experience through meticulous micro-interaction design and stringent quality assurance processes.
 
 ### UI Designer
